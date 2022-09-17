@@ -1,5 +1,5 @@
 # SC-Criptografia_RSA-Python
-## Gerador/Verificador de Assinaturas RSA em arquivos.
+## Gerador/Verificador de Assinaturas RSA em Arquivos.
 
 * Parte I: Geração de chaves
 	- 1. Geração de chaves (p e q primos com no mínimo de 1024 bits).
