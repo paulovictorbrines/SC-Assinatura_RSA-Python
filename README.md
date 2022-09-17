@@ -1,6 +1,6 @@
-# SC-Criptografia_RSA-Python
+# SC-Assinatura_RSA-Python
 
-Criação e implementação de um gerador e verificador de assinaturas RSA em arquivos feito na linguagem de programação Python na disciplina de Segurança Computacional na Universidade de Brasília (UnB) em 2022 (2022.1).
+Criação e implementação de um gerador e verificador de assinaturas RSA (criptografia) em arquivos feito na linguagem de programação Python na disciplina de Segurança Computacional na Universidade de Brasília (UnB) em 2022 (2022.1).
 
 * Parte I: Geração de chaves
 	- 1. Geração de chaves (p e q primos com no mínimo de 1024 bits).
